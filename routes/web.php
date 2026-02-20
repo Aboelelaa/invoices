@@ -89,3 +89,4 @@ Route::resource('roles',RoleController::class);
 Route::resource('users',UserController::class);
 
 });
+

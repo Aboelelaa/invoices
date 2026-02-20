@@ -486,7 +486,7 @@
 											<td>09 Dec 2019</td>
 											<td class="tx-right tx-medium tx-inverse">31</td>
 											<td class="tx-right tx-medium tx-inverse">$425.72</td>
-											<td class="tx-right tx-medium tx-danger">-$25.01</td>
+											<td class="tx-right tx-medium tx-danger">-$25.011</td>
 										</tr>
 						
 
